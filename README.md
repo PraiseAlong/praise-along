@@ -14,5 +14,3 @@ PraiseAlong brings communities together through the power of music and worship! 
 - 🏫 **Easy registration** process for educational institutions
 - 🤝 **Community-focused** worship experiences
 
-
-Simply register your school and receive your monthly song to get started with collective worship at your institution!
