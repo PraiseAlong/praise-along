@@ -1,5 +1,25 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: 'FuturaBold';
+  src: url('/fonts/FuturaBold.woff2') format('woff2'),
+       url('/fonts/FuturaBold.woff') format('woff'),
+       url('/fonts/FuturaBold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FuturaMedium';
+  src: url('/fonts/FuturaMedium.woff2') format('woff2'),
+       url('/fonts/FuturaMedium.woff') format('woff'),
+       url('/fonts/FuturaMedium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
